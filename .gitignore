@@ -2,3 +2,5 @@
 .DS_Store
 .deploy_cfg
 *.pyc
+.theia
+tests
